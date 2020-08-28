@@ -28,7 +28,26 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 0.673634143294148,
+          "pitch": 0.29317683757684243,
+          "rotation": 1.5707963267948966,
+          "target": "1-schlafzimmer"
+        },
+        {
+          "yaw": 0.6752166807174618,
+          "pitch": 0.14872128849357047,
+          "rotation": 0.7853981633974483,
+          "target": "2-bad"
+        },
+        {
+          "yaw": 0.6913457453585163,
+          "pitch": 0.010842291492487277,
+          "rotation": 0,
+          "target": "3-kche"
+        }
+      ],
       "infoHotspots": []
     },
     {
